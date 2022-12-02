@@ -20,8 +20,8 @@
 <p>&nbsp;</p>
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-<a href="https://twitter.com/faith kilango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faith kilango" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/faith kilango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faith kilango" height="30" width="40" /></a>
-<a href="https://kaggle.com/faith kilango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="faith kilango" height="30" width="40" /></a>
-<a href="https://instagram.com/_data_analytics_universe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_data_analytics_universe" height="30" width="40" /></a>
+<a href="https://twitter.com/faith kilango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faith kilango" height="20" width="40" /></a>
+<a href="https://linkedin.com/in/faith kilango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faith kilango" height="20" width="40" /></a>
+<a href="https://kaggle.com/faith kilango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="faith kilango" height="20" width="40" /></a>
+<a href="https://instagram.com/_data_analytics_universe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_data_analytics_universe" height="20" width="40" /></a>
 
